@@ -1,0 +1,16 @@
+openpg
+openpgwd
+
+odoo   Here is your access token for the Odoo IOT, please write it down in a safe place, you will need it to configure the IOT
+
+8069
+
+database password
+qksy-2wqv-yit8
+
+
+existdb
+basex
+android studio
+windows en virutalbox configurarlo para pawsar datos desde dentro
+albertoruiz@cenecmalaga.es
